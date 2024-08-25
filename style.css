@@ -1,0 +1,18 @@
+nav a:hover {
+  background-color: #808080;
+  padding: 13px;
+}
+nav {
+  height: 50px;
+}
+nav i {
+  padding: 15px;
+}
+nav i:hover {
+  cursor: pointer;
+  background-color: #d6401b;
+}
+
+#Band img {
+  width: 60% !important;
+}
